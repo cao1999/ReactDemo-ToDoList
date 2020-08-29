@@ -1,6 +1,8 @@
 //这里是输入框组件
 import React from "react"
 
+// 测试
+
 //导入scss样式文件  需要安装loader来处理
 import inputStyle from "@/css/childInput.scss"
 
